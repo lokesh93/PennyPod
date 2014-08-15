@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name ="period">
+	    <item>Daily</item>
+	    <item>Weekly</item>
+	    <item>Monthly</item>
+	    
+	</string-array>
+	
+   <string-array name ="unit">
+	    <item>Days</item>
+	    <item>Weeks</item>
+	    <item>Months</item>
+	    
+	</string-array>
+
+    <string name="app_name">Testpenny</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
